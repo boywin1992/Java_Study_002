@@ -89,7 +89,9 @@ public class MainActivity extends AppCompatActivity {
         // result : Child.funcA
 
         Child2 child2 = new Child2();
-        child2.funcB(); // result : Child2.funcB
+        child2.funcB();
+        // result :
+        // Child2.funcB
         child2.funcC();
         // result :
         // Interface3.funcB
